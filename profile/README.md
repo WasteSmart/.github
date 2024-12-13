@@ -30,4 +30,4 @@ Some of the features we have developed involve:
 
 ### Installation 
 To download the app, please visit the following Google Drive link:
-[Waste Smart App](https://drive.google.com/drive/folders/1LBZ-9DKVKz-DS6cWI-VfQRdSIn5tjCXQ?usp=sharing)
+[Waste Smart App](https://drive.google.com/file/d/1a9KbL1S44TouMAo59a-5vr0xgTqDJqg_/view?usp=sharing)
